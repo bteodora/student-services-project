@@ -193,9 +193,3 @@ This project was architected and implemented by:
 ## 11. License
 
 This project is distributed for academic and educational purposes. All rights regarding the source code and intellectual property remain with the authors and the Faculty of Technical Sciences.
-
----
-
-<div align="center">
-  <sub>End of Documentation</sub>
-</div>
