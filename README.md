@@ -161,7 +161,7 @@ StudentServices/
 ### Step-by-Step Guide
 1.  **Clone the Repository:**
     ```bash
-    git clone https://github.com/your-username/student-services-management.git
+    git clone https://github.com/bteodora/student-services-management.git
     ```
 2.  **Open the Solution:**
     Navigate to the project directory and open `StudentServices.sln` in Visual Studio.
@@ -173,23 +173,3 @@ StudentServices/
 5.  **Run:**
     Press `F5` to launch the application.
     *Note: The application includes a pre-seeded dataset in the `bin/Data` directory for demonstration purposes.*
-
-## 9. Testing and Quality Assurance
-
-The stability of the system is ensured through rigorous architectural validation:
-*   **Unit Integrity:** Key algorithms (GPA calculation, Search Tokenization) are verified for correctness.
-*   **Integration Testing:** The interaction between the Controller and DAO layers is tested to ensure data survives serialization cycles.
-*   **Stress Testing:** The GUI is validated against large datasets to ensure the custom pagination and Observer pattern maintain 60fps rendering performance.
-
-## 10. Authors
-
-This project was architected and implemented by:
-
-*   **Teodora Bečejac** (RA 37/2021)
-*   **Nataša Radmilović** (RA 20/2021)
-
-*Department of Computing and Control Engineering, Faculty of Technical Sciences.*
-
-## 11. License
-
-This project is distributed for academic and educational purposes. All rights regarding the source code and intellectual property remain with the authors and the Faculty of Technical Sciences.
